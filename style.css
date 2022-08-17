@@ -1,0 +1,49 @@
+ .div1{
+    text-align: right;
+    padding-right: 50px;
+     margin-top: 30px;
+    
+}
+.bb{
+    color: green;
+    text-align:right ;
+    padding-right: 50px;
+    font-size: 100px;
+   
+ }
+ .b{
+    padding-right: 50px;
+    text-align:right ;
+  
+ }
+ .ccc{
+    text-align: center;
+    margin: 30px;
+    padding: 18px 32px;
+}
+.ccc:hover
+{
+    box-shadow: 2px 2px 6px black;
+    border-color: white;
+  
+    
+}  
+footer{
+    padding: 1% 10%;
+    background: green;
+}
+
+footer a {
+    color: white;
+    margin: 0 10px;
+}
+footer a:hover{
+    color: black;
+}
+.bg{
+    background-image: url("./Images/Spoon.jpg");
+    height: 100vh;
+    width: auto;
+    background-repeat: no-repeat;
+    
+}
